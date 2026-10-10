@@ -1,9 +1,0 @@
-{
-  "endpoint": "https://amp.shazam.com/discovery/v5/en-US/GB/android/-/tag/{uuid1}/{uuid2}?sync=true&webv3=true&sampling=true&connected=&shazamapiversion=v3&sharehub=true&hubv5minorversion=v5.1&hidelb=true&video=v3",
-  "platform": "IPHONE",
-  "appVersion": "14.1.0",
-  "userAgent": "Dalvik/2.1.0 (Linux; U; Android 13; Pixel 6 Build/TQ3A.230901.001)",
-  "timezone": "Europe/Paris",
-  "language": "en-US",
-  "headers": {}
-}
